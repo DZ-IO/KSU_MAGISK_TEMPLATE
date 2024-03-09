@@ -4,4 +4,4 @@ version=1.0
 versionCode=1
 author=DZIO
 description=使用 KernelSU + Magisk 二合一模板构建的 Demo
-updateJson=https://raw.githubusercontent.com/DZ-IO/KSU_MAGISK_TEMPLATE/master/update.json
+updateJson=https://gitee.com/dz-io/KSU_MAGISK_TEMPLATE/raw/master/update.json
