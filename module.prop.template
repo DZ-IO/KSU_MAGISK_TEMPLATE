@@ -1,0 +1,7 @@
+id=<字符串> (必须与这个正则表达式匹配：^[a-zA-Z][a-zA-Z0-9._-]+$。这是您的模块的唯一标识符，发布后不应更改。)
+name=<字符串>
+version=<字符串>
+versionCode=<整数> (必须是整数。这用于对比版本，以便检查更新。)
+author=<字符串>
+description=<字符串>
+updateJson=<链接> (可选) (应该指向一个 URL，该 URL 下载提供信息的 JSON，以便 Magisk app 可以更新模块。)

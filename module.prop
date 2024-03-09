@@ -1,0 +1,6 @@
+id=ksuMagiskDemo
+name=KernelSU + Magisk 二合一 Demo
+version=1.0
+versionCode=1
+author=DZIO
+description=使用 KernelSU + Magisk 二合一模板构建的 Demo
